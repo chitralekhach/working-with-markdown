@@ -101,3 +101,4 @@ Denise Case
 dcase@nwmissouri.edu
 
 ##  my changes
+I have edited this on Github web.
